@@ -1,0 +1,6 @@
+/Users/tech-a10/Projects/CalculatorPractice/CalculatorPractice/bin/Debug/CalculatorPractice.exe
+/Users/tech-a10/Projects/CalculatorPractice/CalculatorPractice/bin/Debug/CalculatorPractice.pdb
+/Users/tech-a10/Projects/CalculatorPractice/CalculatorPractice/obj/x86/Debug/CalculatorPractice.csprojResolveAssemblyReference.cache
+/Users/tech-a10/Projects/CalculatorPractice/CalculatorPractice/obj/x86/Debug/CalculatorPractice.csproj.CoreCompileInputs.cache
+/Users/tech-a10/Projects/CalculatorPractice/CalculatorPractice/obj/x86/Debug/CalculatorPractice.exe
+/Users/tech-a10/Projects/CalculatorPractice/CalculatorPractice/obj/x86/Debug/CalculatorPractice.pdb
